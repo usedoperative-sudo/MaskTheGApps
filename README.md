@@ -1,5 +1,5 @@
 # MaskTheGApps
-**By [Used](https://github.com/usedoperative-sudo)**
+**By [Used](https://github.com/usedoperative-sudo)** (me)
 
 A Magisk module that systemlessly injects **MindTheGApps** components into your Android device. Specifically designed for GSIs and "Vanilla" custom ROMs.
 
@@ -37,4 +37,4 @@ The module follows the standard Magisk layout:
 
 ## Credits
 * [MindTheGApps Team](https://gitlab.com/MindTheGApps) for the core binaries.
-* [Used](https://github.com/usedoperative-sudo) for the Magisk implementation.
+* [Used](https://github.com/usedoperative-sudo) (me) for the Magisk implementation.
