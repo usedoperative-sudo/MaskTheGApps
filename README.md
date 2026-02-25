@@ -22,7 +22,7 @@ The module follows the standard Magisk layout:
 * `addon.d`: Included for legacy/ROM script compatibility.
 
 ## 🛠 Installation
-1. Download the latest `.zip` from the [Releases](../../releases) section.
+1. Download the `.zip` for your Android version from the [Releases](../../releases) section.
 2. Open the **Magisk App**.
 3. Go to **Modules** > **Install from storage**.
 4. Select `MaskTheGApps.zip`, wait for the process to finish, and reboot.
